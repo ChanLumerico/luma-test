@@ -1,2 +1,2 @@
 # luma-test
-Actual test notebooks for LUMA Python module
+Actual test notebooks for Luma Python module
